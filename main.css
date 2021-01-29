@@ -37,9 +37,9 @@ text-decoration: none;
 	#header a:hover{
 	/*	border:1px solid red;*/
 color:indigo;
-background-color: white;
+background-color: yellow;
 	padding: 8px;
-	border-radius: 9px;
+	border-radius: 3px;
 	transition: 0.7s ease-in-out;
 	}
 
